@@ -14,7 +14,7 @@
 
 - 📫 How to reach me : **ritikapandey0805@gmail.com**
 
-- ⚡ Fun fact **I constantly keep trying unless I make it.**
+- ⚡ Fun fact: **I constantly keep trying unless I make it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
