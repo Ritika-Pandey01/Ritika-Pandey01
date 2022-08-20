@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **ritikapandey0805@gmail.com**
+- 📫 How to reach me : **ritikapandey0805@gmail.com**
 
 - ⚡ Fun fact **I constantly keep trying unless I make it.**
 
