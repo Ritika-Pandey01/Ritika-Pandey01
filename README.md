@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **UNICART**
+- 🔭 I’m currently working on **BooksEra**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Full Stack Development and Problem Solving**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me : **ritikapandey0805@gmail.com**
 
