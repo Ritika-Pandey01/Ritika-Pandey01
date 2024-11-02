@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **BooksEra**
+- 🔭 I’m currently working on **Automation and Testing**
 
-- 🌱 I’m currently learning **Full Stack Development and Problem Solving**
+- 🌱 I’m currently learning **Problem Solving**
 
 - 💬 Ask me about **Problem Solving**
 
